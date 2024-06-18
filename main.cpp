@@ -7,7 +7,7 @@ int main(){
     char *argv[2];
 
     argv[0] = (char *) "MLP";
-    argv[1] = (char *) "dantzig42.tsp";
+    argv[1] = (char *) "instancias/burma14.tsp";
 
     Data & data = Data::getInstance();
 
